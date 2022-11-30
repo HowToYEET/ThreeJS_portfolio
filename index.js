@@ -257,7 +257,7 @@ const Proces_1_image_material = new THREE.MeshBasicMaterial({ map: Proces_1 });
 const Proces_1_Mesh = new THREE.Mesh(Proces_1_image_geometry, Proces_1_image_material);
 Proces_1_Mesh.position.set(16, 1.5, -2);
 
-const future_keychain = new THREE.TextureLoader().load("images/future_keychain.jpg");
+const future_keychain = new THREE.TextureLoader().load("images/fkeychain.jpg");
 // Declare container to image here (mostly a mesh) Important -> MeshBasicMaterial for image rendering or else weird-looking
 const future_keychain_image_geometry = new THREE.BoxGeometry(2, 2, 2);
 const future_keychain_image_material = new THREE.MeshBasicMaterial({ map: future_keychain });
