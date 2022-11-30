@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testing</title>
+    <script src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script>
+    <link rel="stylesheet" href="index.css">
+    <link href="https://fonts.cdnfonts.com/css/scribble-2" rel="stylesheet">
+</head>
+<body>
+    <script type="importmap">
+        {
+          "imports": {
+            "three": "https://unpkg.com/three@0.144/build/three.module.js",
+            "GLTFLoaders": "https://unpkg.com/three@0.144.0/examples/jsm/loaders/GLTFLoader.js",
+            "OrbitController": "https://unpkg.com/three@0.144.0/examples/jsm/controls/OrbitControls.js",
+            "FontLoaders": "https://unpkg.com/three@0.144.0/examples/jsm/loaders/FontLoader.js",
+            "geo": "https://unpkg.com/three@0.144.0/examples/jsm/geometries/TextGeometry.js",
+            "dd": "https://unpkg.com/three@0.144.0/examples/jsm/renderers/CSS2DRenderer.js"
+          }
+        }
+      </script>
+      <script>var exports = {};</script>
+      <script type="module" src="index.js"></script>
+      <style>
+        @import url('https://fonts.cdnfonts.com/css/anything-skribble');
+        </style>
+</body>
+</html>
