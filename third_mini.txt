@@ -1,0 +1,49 @@
+Introduction:
+The last mini project done has been with a longer timeframe. The group kept the different learning procedures
+and learning goals from the previous projects into account during this project to hopefully be able to improve the overall learning
+time and the quality of this project. Here, the course Design Studio Methods, has the purpose to teach us use different methods in
+different ways, in different situations depending on ourselves, and in different steps in the development of a product. 
+The theme of this last project is also free-of-choice, however it is important to utilize knowledge from previous projects.
+
+What was done:
+
+We started off by brainstorming ideas and topics we wanted to work with. This became kind of dull given 10 weeks are not enough time to thoroughly
+analyse a topic and the solution would not be worked with in depth. Therefore, the choice of it became more irrelevant. Some group members wanted to
+improve the healthcare sector, which is a subject that have a lot of potential of improvements.
+
+After selecting the subject, a strategy was planned and executed with not so many changes in the plan while the execution happened. 
+The plan consisted mostly of analysing, interviewing, documenting, researching and writing the corresponding research paper.
+
+The solution:
+The final product was driven by trying to improve the documentation process of the care given to the citizens in nursing homes. No current system does
+this in a simplified way, or they lack efficiency in doing the procedure, which we saw as an improvement opportunity. The product developed was a physical
+device (more precise a wall mount), an application and a RFID tag (a card that contains data and a unique ID). This setup should simplify the procedure
+by instead of writing or selecting a lot of tasks when assisting a citizen, some simple physical buttons on the wall mount was meant to ease the process of
+registering tasks. The wall mount consists of an Arduino R3 UNO, RFID reader and the buttons, which represent task that needs to be done.
+The buttons include signal lights for; when pressed, the task is overdue, or the task is done. The application connected to retrieve data from the wall mounts,
+should only hold simplified and important information, so when employees will find information, it does not take unnecessary time. 
+
+Reflection of the mini project:
+This mini project had a lot of small challenges which were not discovered in the previous project due to the limited time and not having to formalize
+the project in a research paper. Some of these challenges were types of practices (I.e., different kinds of analysis used or biased) and structuring a research paper,
+what is and is not important to include . Especially, when previously experience from two different educations do not correspond completely.
+The product and end-result are still adequate to what is expected of us and what we had intended to learn from these projects overall.
+However, prioritization, habits and learning procedure are some of the areas that still need improvements for all members of this group.
+If enough time was given to the previous projects, the same improvements would probably be needed.
+
+Personally, I like the learning goals, the education, and the theory which can be easily implemented in practises. However, the way that there is not
+a correct answer, nor a guarantee that the design of a product can be made, makes the purpose of the learnings either less important or perhaps just missing 
+a more practical purpose to learn these methodologies. I see now a difference in engineering and design practices, which is going to be the most difficult part 
+for me, not only to this semester but in all aspects of development both now and after finished education.
+
+
+Some pictures (to the right) where taken of the third mini project, please continue... (go no further after the images, you will continue forever...)
+ 
+- Kenneth Køpke, 3/11/2022, IXD7, Aalborg University
+
+
+
+
+
+
+

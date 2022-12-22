@@ -1,0 +1,42 @@
+Introduction:
+The second mini project was about designing and implementing an AI to Improve some situations or subjects , which were free-of-choice
+for the groups.
+To explore different kinds of approaches and finding a problem domain, some similar tools where of aid, which were cards that explained the use of AI,
+both technical and emotional.
+
+What was done:
+The cards used, helped us to embrace almost all genres and aspect of the use of AI in a solution. The most difficult but interesting part was to describe
+and define the interaction between human and AI in a solution to be developed in a 3-week's timeframe. The group started off with selecting
+favourite topics and subjects, where an AI incorporated in a solution could solve a problem. During the brainstorming a few ideas were considered.
+It started with urban city design improvements where smart buildings were a possible approach to make the improvements. Next was helping students by
+making a friendly advisor in a study dormitory, which should help with problems or maybe just connect the students living there, and thereby improving
+the quality of life (abnormally broad idea and difficult to test). Finally, the idea was simplified, while still implementing the AI to be informative and helpful.
+A simple AI, keeping track of plants needs and then pass this information to humans in a simple way was the final choice. Just for clarity, the building,
+in which the solution was intended to be implemented, is a school where children should be able to interact with the screens. 
+
+The solution:
+It consists of three parts; small screens, one big screen (for total overview) and an AI to accommodate the data that needs to be given from the plants
+to the humans. The small screens are installed nearby the plants around in the building. The big screen is then placed in the middle of the building, which
+shows all plants and is where all connections, updates, maintenance, etc. should be implemented. The AI starts off by learning different kinds
+of needs each plant has (for gaining a general picture), then it further learns as the plants starts to send data (by using moisture sensors, solar sensors
+and other sensors alike these). This process is by far the most difficult and yet it is the part I am most interested in.
+
+
+Reflection of the mini project:
+This has been very interesting, given the knowledge I have by coding an AI to detect or recognize something. To then see and try to implement an AI formalize
+and pass the data to a user, especially children, has been intriguing at the least. The teamwork needed for designing how the AI should look like has never
+been a focus of mine, moreover, including the emotional analysis of how the children should interplay with the AI. This was the most fascinating part of this project.
+I still have a feeling of incompleteness however, since the AI was never developed or described in depth. Only looking at it from a designer's perspective
+is not satisfying. What I gained the most from this project is, that software developers can gain a lot by understanding a design process and mostly
+the interaction between users and product. But the same goes for designers. They could gain a lot from understanding how the software is made and its limits.
+This could help the design to be more precise of what is "real world” possible and especially what is not "real world” possible, regarding implementing AI.
+
+
+Some pictures (to the right) where taken of the second mini project, please continue...
+ 
+- Kenneth Køpke, 3/11/2022, IXD7, Aalborg University
+
+
+
+
+

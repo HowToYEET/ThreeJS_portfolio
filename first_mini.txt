@@ -1,0 +1,38 @@
+Introduction:
+The first mini project done on Interaction design 7. semester master, was about learning to brainstorm the different 
+solution concept through a card toolkit. Different subjects, AOE (Area of Effect), and keywords were given on these cards
+to help see different solutions interplay.The problem area was about park tracking in Aalborg city, which were selected by the group.
+
+What was done:
+
+After gaining understanding on our problem area and defining the concept, by researching and interviewing people in Aalborg within reach,
+the card tools were used to aid the group toward a solution. In this process, a lot of different ideas and possibilities were explored
+to solve the problem. One specific solution was chosen due to the time limit and recourses available. This was then further developed by
+prototyping, testing it, and finally trying to execute a combined use case to see if the prototype and design were indeed a valid solution to the problem area.
+
+The solution:
+It consists of an application and a keychain. The application can be used by downloading it to a device. Additionally, Bluetooth is incorporated
+into the design for connecting to the device running the application. Using this product where in general very simple and straightforward;
+When opening the application, select a parking zone in which the user wants to gain information about. Information is then provided in real-time
+of the current parking situation in that zone. If connected to a keychain, the application then sent the current parking situation to the keychain.
+If no parking spots are available in the zone, the keychain lights red, if 75% is occupied the light is yellow, otherwise the light is green. The parking
+is registered by a fixed number of available parking spots, where for each enter and exit point of the zone, increase or decrease the number of available parking spots. 
+
+Reflection of the mini project:
+This mini project has been very educational regarding the design process. As a software bachelor, not much time and thoughts are given to the design
+and on the solutions impact or usability, which is one of if not the mos t important aspect of a software solution where users are involved.
+Again, given my software background, I was mostly interested in the software part of the solution, but I learned to have the usability aspect in mind when developing.
+Mostly I am pleased with the result of the prototype since it comes as close as possible to a “real world” solution setup as possible, which is driving
+me most when designing and developing solutions with a team. When reflecting on the work done by the team, a fine balance in knowledge, efficiency,
+and cooperation throughout the project. This was a feeling of completion when working in teams and hopefully something to be further used in upcoming mini projects. 
+
+Some pictures (to the right) where taken of the first mini project, please continue...
+ 
+- Kenneth Køpke, 3/11/2022, IXD7, Aalborg University
+
+
+
+
+
+
+

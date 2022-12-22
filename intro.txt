@@ -1,0 +1,13 @@
+Hello and Welcome to the prototype THREEJS portfolio for an IXD7 student, Kenneth Køpke.
+
+
+    For moving left and right please use the left- and rightarrows on your keyboard.
+
+    to the right you will find three mini projects developed throughout this 7. semester.
+
+    you can move faster or slower by changing size by using up- and downarrows
+
+    Press C for color change :-)
+
+    if the screen size is weird, try press F11 and then F5
+
